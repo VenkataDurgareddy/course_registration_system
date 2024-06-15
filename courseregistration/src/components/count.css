@@ -1,0 +1,51 @@
+.count{
+    margin-top:40px;
+    margin-left: -100px;
+}
+.courses{
+    margin-left:-900px;
+    margin-top:100px;
+}
+.courses h1{
+    color:black;
+    font-weight: bold;
+}
+.courses p{
+    font-size: 40px;
+    color:black
+}
+.author p{
+    margin-top: -140px;
+    font-size: 40px;
+    color:black;
+    margin-right:200px;
+}
+.author h1{
+    color:black;
+    font-weight: bold;
+    margin-right:200px;
+}
+.subject{
+    margin-left: 450px;
+    margin-top: -140px;
+}
+.subject p{
+    font-size: 40px;
+    color:black; 
+}
+.subject h1{
+    color:black;
+    font-weight: bold;
+}
+.student{
+    margin-left: 1100px;
+    margin-top: -135px;
+}
+.student p{
+    font-size: 40px;
+    color:black; 
+}
+.student h1{
+    color:black;
+    font-weight: bold;
+}
